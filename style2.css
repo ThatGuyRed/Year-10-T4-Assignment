@@ -1,0 +1,39 @@
+body {
+	background-color: #0091D5
+}
+
+.title {
+	font-family: Impact, Calibri;
+	color: white;
+	font-size: 40px;
+}
+
+.button1 {
+	background-color: red;
+	font-family: arial;
+	color: white;
+	padding: 5px 50px;
+	border: none;
+}
+	
+.button2 {
+	background-color: #044cd0;
+	font-family: arial;
+	color: white;
+	padding: 5px 10px;
+	border: none;
+}
+
+.button3 {
+	background-color: #23272b;
+	font-family: arial;
+	color: white;
+	padding: 5px 28px;
+	border: none;
+}
+
+p {
+	font-family: Calibri;
+	color: white;
+	font-size: 20px;
+}
